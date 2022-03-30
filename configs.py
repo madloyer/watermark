@@ -29,9 +29,9 @@ Hi, I am Video Watermark Adder Bot!
 **How to Added Watermark to a Video?**
 **Usage:** First Send a JPG Image/Logo, then send any Video. Better add watermark to a MP4 or MKV Video.
 
-__Note: I can only process one video at a time. As my server is Heroku, my health is not good. If you have any issues with Adding Watermark to a Video, then please Report at [Support Group](https://t.me/linux_repo).__
+__Note: I can only process one video at a time. As my server is Heroku, my health is not good. \n Join Mantapjozz Channel Here:\n [Channel Utama](https://t.me/mantapvids)\n [Channel Bot](https://t.me/mantapfilestorage).__
 
-Desgined by @AbirHasan2005
+This bot by @mantapvids
 """
 	PROGRESS = """
 Percentage : {0}%
